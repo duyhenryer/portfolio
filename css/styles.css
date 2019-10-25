@@ -584,6 +584,16 @@ body.active
         cursor:default;
         font-size:1.2em
     }
+
+    .devicon-git-plain {
+        max-width: 3.5em;
+      }
+      
+      /* if you want to change the original color */
+      .devicon-git-plain path {
+        fill: #010101;
+      }
+
     #contact
     {
         padding:50px 15px;
