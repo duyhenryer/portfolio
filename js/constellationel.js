@@ -46,7 +46,7 @@ $(document).ready(function(){
 				// line: {
 				// 	color: 'rgba(255, 255, 255)',
 				// 	width: 0.2
-				color: 'rgba(246, 224, 105, .9)',
+				color: 'rgba(255,255,255, 0.9)',
 				width: 4
 			    },
 			    line: {

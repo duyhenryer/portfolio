@@ -206,7 +206,7 @@ body.active
         display:inline-block;
         color:#fff;
         padding:15px 25px;
-        border:1px solid #010101;
+        border:1px solid #ffffff;
         border-radius:30px;
         transition:.5s ease all
     }
@@ -254,7 +254,7 @@ body.active
         height:100vh;
         min-height:500px;
         max-height:1080px;
-        background:#20232D;
+        background:#010101;
         background-size:cover;
         padding:15px;
         overflow:hidden
