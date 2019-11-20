@@ -17,16 +17,17 @@
   "author": "Duy Henry",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^4.0.0",
-    "gulp-autoprefixer": "^6.0.0",
-    "gulp-plumber": "^1.2.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-plumber": "^1.2.1",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
-    "gulp-uglify": "^3.0.1",
+    "gulp-uglify": "^3.0.2",
     "gulp-wait": "0.0.2",
-    "tar": "^4.4.13"
+    "tar": "^5.0.5"
   },
   "dependencies": {
-    "gulp-install": "^1.1.0"
+    "gulp-install": "^1.1.0",
+    "npm-check-updates": "^3.2.1"
   }
 }
