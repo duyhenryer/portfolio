@@ -1,6 +1,12 @@
 # My Portfolio
 
+<div align="center">
+
+[![Build Status](https://travis-ci.org/duyhenryer/portfolio.svg?branch=master)](https://travis-ci.org/duyhenryer/portfolio)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2e7d817d-4db5-4b7b-aceb-0493dc718a93/deploy-status)](https://app.netlify.com/sites/duyhenryer/deploys)
+
+</div>
 
 This repo contains an easy-to-customize personal dev portfolio template that was created with Sass and JavaScript.
 
