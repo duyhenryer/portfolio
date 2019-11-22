@@ -60,4 +60,4 @@ If you wish to use the template as is (i.e. how it's seen in the demo), then all
 
 If this project help you reduce time to develop, you can give me a cup of coffee.
 
-You can donate on [Coinbase](https://commerce.coinbase.com/checkout/e5bf28c8-63cc-42bd-9576-a24d111dde4b) or [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/duyhenryer).
+You can donate on [Coinbase](https://commerce.coinbase.com/checkout/e5bf28c8-63cc-42bd-9576-a24d111dde4b) or [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://www.paypal.me/duyhenryer)&nbsp;
